@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/spackpega/Project3/_apis/build/status/xxxpegaxxx.pipelines-java?branchName=main)](https://dev.azure.com/spackpega/Project3/_build/latest?definitionId=14&branchName=main)
 
 # Contributing
 
